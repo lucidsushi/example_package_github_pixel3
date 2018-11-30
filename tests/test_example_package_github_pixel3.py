@@ -22,7 +22,7 @@ class TestExample_package_github_pixel3(unittest.TestCase):
         """Tear down test fixtures, if any."""
 
     def test_test_message(self):
-        """Test something."""
+        """Test Print a Test Message"""
         test_message = example_package_github_pixel3.test_message()
         self.assertEqual(test_message, self.test_message)
 
