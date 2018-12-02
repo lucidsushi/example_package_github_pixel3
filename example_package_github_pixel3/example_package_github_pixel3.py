@@ -10,4 +10,5 @@ def test_message():
 
 def multiply_two_number(a, b):
     """ Returns the result of multiplying two numbers """
+    # unused_var = 'blah'
     return a * b
