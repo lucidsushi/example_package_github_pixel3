@@ -1,5 +1,5 @@
 =============================
-example_package_github_pixel3
+README
 =============================
 
 
@@ -23,12 +23,6 @@ just an example package for github
 * Documentation: https://example-package-github-pixel3.readthedocs.io.
 
 
-Features
---------
-
-* TODO
-
-Credits
 -------
 
 This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.

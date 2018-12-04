@@ -14,8 +14,6 @@ To install example_package_github_pixel3, run this command in your terminal:
 
     $ pip install example_package_github_pixel3
 
-This is the preferred method to install example_package_github_pixel3, as it will always install the most recent stable release.
-
 If you don't have `pip`_ installed, this `Python installation guide`_ can guide
 you through the process.
 
